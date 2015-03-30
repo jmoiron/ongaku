@@ -22,4 +22,6 @@ $ ongaku -port=1339
 ```
 
 If you go to `:1339` on the machine you ran `ongaku` on, you should get
-a (very) spartan interface to play music files.
+a (very) spartan interface to play music files:
+
+![ongaku](http://jmoiron.net/i/bcosygl.png)
